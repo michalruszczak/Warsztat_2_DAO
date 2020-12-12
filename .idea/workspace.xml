@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d223ffee-bf38-478d-be81-12d401fe0ecb" name="Default Changelist" comment="" />
+    <list default="true" id="d223ffee-bf38-478d-be81-12d401fe0ecb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DbUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DbUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Warsztat_2_coderslab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -93,6 +95,7 @@
       <updated>1607784189120</updated>
       <workItem from="1607784190288" duration="600000" />
       <workItem from="1607784800811" duration="62000" />
+      <workItem from="1607784875186" duration="363000" />
     </task>
     <servers />
   </component>

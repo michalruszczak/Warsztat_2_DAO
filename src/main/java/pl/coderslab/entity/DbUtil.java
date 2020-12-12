@@ -18,3 +18,20 @@ public class DbUtil {
 
 
 }
+/*
+utworzenie bazy danych
+
+CREATE DATABASE workshop2
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci;
+
+utworzenie tabeli users
+create table users (
+    id int(11) primary key auto_increment,
+    username varchar(255) default null,
+    email varchar(255) default null unique,
+    password varvhar(60) default null
+)
+
+
+ */
